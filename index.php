@@ -1,1 +1,1 @@
-<?php echo 'Hello world mit Update' ?>
+<?php echo 'Hello world mit Update'; phpinfo(); ?>
